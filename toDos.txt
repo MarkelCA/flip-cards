@@ -12,4 +12,4 @@
 [X] Rellenar el usuario con un texto "anónimo" cuando no se haya introducido nombre al guardar la partida.
 [X] Sanityze username input
 [ ] Agregar estilos 
-[ ] Made the app responsive
+[ ] Make the app responsive
